@@ -1,90 +1,96 @@
-<h1 align="center">Hey, I’m Dhruv Gaur 👋</h1>
+<h1 align="center">Hey, I’m Dhruv 👋</h1>
 
 <p align="center">
-  <b>3rd-year CS student • Builder • Problem Solver • Occasionally tired 😒</b>
+  <b>CS Student • DevOps Enthusiast • Data + DSA Focus • Builder Mindset</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-gaur-2107dg">LinkedIn</a> •
-  <a href="https://discord.gg/tUdTK3Kg">Discord</a> •
-  <a href="https://www.reddit.comu/Reasonable_Cap7554?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1">Reddit</a>
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="YOUR_GITHUB">GitHub</a> •
+  <a href="YOUR_DISCORD">Discord</a>
 </p>
 
 ---
 
-## 👾 GitHub Contribution
+## 👾 GitHub Activity
 <p align="center">
-  <img src="./UniversalLevi-gh-space-shooter.gif" />
+  <img src="./your-gif.gif" />
 </p>
 
 ---
 
 ## 🧠 About Me
-I am Dhruv Gaur, a B.Tech student specializing in *DevOps* and *Cloud Infrastructure*. I am passionate about *Automating Workflows* and building scalable systems using AI-driven solutions.  
+I’m a 3rd-year Computer Science student focused on **DevOps, Data Analytics, and DSA**.  
+I care about **real skills that get jobs** — not just theory.
 
-- ​👨‍🎓 B.Tech student specializing in **DevOps** and **Cloud Infrastructure** 
-- 🐍 Mostly **Python**, also **AWS** & **Boto3**  
-- 🤖 Interested in **automation, agents, AI-Driven System**  
-- 🛠️ I enjoy breaking things *just enough* to understand them  
-- ☕ Energy source: caffeine and deadlines  
+- 👨‍🎓 B.Tech CSE (3rd Year)
+- ⚙️ Focus: **DevOps + Data Analyst + DSA**
+- 🐍 Strong in **Python, SQL**
+- ☁️ Learning **AWS, Automation, Cloud Systems**
+- 📊 Interested in **Data Analysis & Real-world Insights**
+- 🧠 Problem-solving mindset (DSA grind)
+- ☕ Runs on deadlines + pressure
 
 ---
 
 ## 🔨 What I’m Working On
-- 🤖 **AI Calling Agent** — automation + AI + real-world workflows  
-- 🛒 **E-Commerce tooling** — backend logic, integrations, experiments  
-- 🧪 Side projects that solve small, annoying problems  
+- 📊 **Data Analytics Projects** — SQL + Python + dashboards  
+- ⚙️ **DevOps Practice** — CI/CD, AWS, automation scripts  
+- 🧠 **DSA Prep** — for placements  
+- 🚀 **Startup (ExamVector)** — building a student-focused platform  
 
 ---
 
-## 🚀 Projects & Live Links
+## 🚀 Projects
 
-| Project | Stack | Description | Live |
-|---------|-------|-------------|------|
-| **E-CommerceStore** | TypeScript | Backend logic & integrations for e-commerce | [Visit Store](https://eazydropshipping.com/) |
-| **Apsox** | TypeScript | Backend architecture & communication platform | [Visit Project](https://apsox.com/) |
-| **AI Calling Agent** | Python | AI-assisted automation of calls & workflows |       
-| **green-sip-haven** | TypeScript | Frontend + backend experiments |
-| **ELI-Fi** | HTML | Minimalist web project |
-
+| Project | Stack | Description |
+|--------|------|-------------|
+| **Encrypted Diary App** | Python | Secure personal diary with encryption |
+| **AWS Automation Scripts** | Python, Boto3 | Automating EC2, S3, logs |
+| **Data Analysis Projects** | Python, SQL | Data cleaning, insights, visualization |
+| **ExamVector (Startup)** | Mixed | Platform for competitive exam students |
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, TypeScript, HTML/CSS, C/C++, Java, Bash  
-**Backend & Systems:** Node.js, Express, PostgreSQL, MongoDB, REST APIs, WebSockets, Linux/VPS management  
-**Frontend:** Next.js (working knowledge)  
-**Dev & Infra:** Git & GitHub Actions, CI/CD, automation scripts, AI-assisted dev, server setup & maintenance  
+**Languages:** Python, C++, SQL, Bash  
+**Core Skills:** DSA, Problem Solving, DBMS  
+**DevOps & Cloud:** AWS, CI/CD, Linux, GitHub Actions  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, VS Code, Linux  
 
 ---
 
-## 🔐 Cybersecurity Focus
-- Built **custom monitoring & network capture tools**  
-- Practical experience with logs, failures, and security-first design  
-- Security shapes my approach to **robust, observable, maintainable systems**
+## 🔐 Interests
+- DevOps & Cloud Infrastructure  
+- Data Analytics & Visualization  
+- Automation & AI tools  
+- Building scalable systems  
 
 ---
 
 ## 🧩 How I Work
-- Learn by **building first**, iterate fast, and break things intentionally  
-- Value **working systems over perfect theory**  
-- Comfortable close to the metal—servers, processes, automation, AI workflows  
+- Build first, learn later  
+- Focus on **placements + real-world skills**  
+- Consistency > motivation  
+- No shortcuts, just execution  
 
 ---
 
-## 📈 GitHub Stats (aka proof of life)
-- 🔥 ~700 contributions last year  
-- 🦈 Pull Shark, Quickdraw, YOLO certified  
-- 🧩 Active across many repos (not just one)  
+## 📈 Goals
+- 🎯 Crack on-campus placement  
+- 🌍 Get global-level opportunities  
+- 💰 High-income skill stack (DevOps + Data)  
+- 🚀 Scale my startup  
 
 ---
 
 ## 📫 Reach Me
-- Discord: `UniversalLevi`  
-- LinkedIn: [in/deepanshuchauhan2095](https://www.linkedin.com/in/deepanshuchauhan2095)  
-- GitHub Issues / PRs welcome  
+- Discord: `YOUR_USERNAME`  
+- LinkedIn: YOUR_LINK  
+- Open to collaborations & opportunities  
 
 <p align="center">
-  <i>“Ship > perfect. Build > theorize.”</i>
+  <i>“No excuses. Just results.”</i>
 </p>

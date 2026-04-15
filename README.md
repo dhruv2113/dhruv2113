@@ -14,7 +14,7 @@
 
 ## 👾 GitHub Activity
 <p align="center">
-  <img src="./your-gif.gif" />
+  <img src="./UniversalLevi-gh-space-shooter.gif" />
 </p>
 
 ---

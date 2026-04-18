@@ -87,8 +87,8 @@ I care about **real skills that get jobs** — not just theory.
 ---
 
 ## 📫 Reach Me
-- Discord: `YOUR_USERNAME`  
-- LinkedIn: YOUR_LINK  
+- Discord: _dhruvgaur_21_95616
+-LinkedIn: https://www.linkedin.com/in/dhruv-gaur-2107dg 
 - Open to collaborations & opportunities  
 
 <p align="center">

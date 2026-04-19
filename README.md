@@ -91,6 +91,6 @@ I care about **real skills that get jobs** — not just theory.
 -LinkedIn: https://www.linkedin.com/in/dhruv-gaur-2107dg 
 - Open to collaborations & opportunities  
 
-<p align="center">
+<p align="left">
   <i>“No excuses. Just results.”</i>
 </p>
